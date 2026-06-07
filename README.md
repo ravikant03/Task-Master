@@ -267,6 +267,6 @@ Access Protected Routes
 
 MERN Stack Developer
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/ravikant03
 
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+LinkedIn: https://www.linkedin.com/in/ravikant-m-43260a270/
